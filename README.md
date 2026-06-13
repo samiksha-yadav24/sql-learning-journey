@@ -1,4 +1,4 @@
-# sql-learning-journey
+# Sql-Learning-Journey
 Structured sql notes and practice problems built from scratch
 # SQL Learning Journey 🗄️
 
